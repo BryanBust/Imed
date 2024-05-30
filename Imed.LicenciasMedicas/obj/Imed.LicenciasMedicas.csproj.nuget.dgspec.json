@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Proyectos\\Imed\\Imed\\Imed_Api\\ImedApi.csproj": {}
+    "C:\\Proyectos\\Imed\\Imed\\Imed.LicenciasMedicas\\Imed.LicenciasMedicas.csproj": {}
   },
   "projects": {
-    "C:\\Proyectos\\Imed\\Imed\\Imed_Api\\ImedApi.csproj": {
+    "C:\\Proyectos\\Imed\\Imed\\Imed.LicenciasMedicas\\Imed.LicenciasMedicas.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Proyectos\\Imed\\Imed\\Imed_Api\\ImedApi.csproj",
-        "projectName": "ImedApi",
-        "projectPath": "C:\\Proyectos\\Imed\\Imed\\Imed_Api\\ImedApi.csproj",
+        "projectUniqueName": "C:\\Proyectos\\Imed\\Imed\\Imed.LicenciasMedicas\\Imed.LicenciasMedicas.csproj",
+        "projectName": "Imed.LicenciasMedicas",
+        "projectPath": "C:\\Proyectos\\Imed\\Imed\\Imed.LicenciasMedicas\\Imed.LicenciasMedicas.csproj",
         "packagesPath": "C:\\Users\\gzf00\\.nuget\\packages\\",
-        "outputPath": "C:\\Proyectos\\Imed\\Imed\\Imed_Api\\obj\\",
+        "outputPath": "C:\\Proyectos\\Imed\\Imed\\Imed.LicenciasMedicas\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages",
@@ -46,37 +46,29 @@
         "net7.0": {
           "targetAlias": "net7.0",
           "dependencies": {
-            "Microsoft.AspNetCore.OpenApi": {
+            "RestSharp": {
               "target": "Package",
-              "version": "[7.0.18, )"
-            },
-            "Newtonsoft.Json": {
-              "target": "Package",
-              "version": "[13.0.3, )"
-            },
-            "Swashbuckle.AspNetCore": {
-              "target": "Package",
-              "version": "[6.5.0, )"
+              "version": "[111.1.0, )"
             },
             "System.ServiceModel.Duplex": {
               "target": "Package",
-              "version": "[6.0.*, )"
+              "version": "[4.10.*, )"
             },
             "System.ServiceModel.Federation": {
               "target": "Package",
-              "version": "[6.0.*, )"
+              "version": "[4.10.*, )"
             },
             "System.ServiceModel.Http": {
               "target": "Package",
-              "version": "[6.0.*, )"
+              "version": "[4.10.*, )"
             },
             "System.ServiceModel.NetTcp": {
               "target": "Package",
-              "version": "[6.0.*, )"
+              "version": "[4.10.*, )"
             },
             "System.ServiceModel.Security": {
               "target": "Package",
-              "version": "[6.0.*, )"
+              "version": "[4.10.*, )"
             }
           },
           "imports": [
@@ -91,9 +83,6 @@
           "assetTargetFallback": true,
           "warn": true,
           "frameworkReferences": {
-            "Microsoft.AspNetCore.App": {
-              "privateAssets": "none"
-            },
             "Microsoft.NETCore.App": {
               "privateAssets": "all"
             }

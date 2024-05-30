@@ -11,12 +11,12 @@
 using System;
 using System.Reflection;
 
-[assembly: System.Reflection.AssemblyCompanyAttribute("ImedApi")]
+[assembly: System.Reflection.AssemblyCompanyAttribute("Imed.LicenciasMedicas")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
 [assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+0f40cd3ed1b41dba9460b8f9ca28dc95abca948f")]
-[assembly: System.Reflection.AssemblyProductAttribute("ImedApi")]
-[assembly: System.Reflection.AssemblyTitleAttribute("ImedApi")]
+[assembly: System.Reflection.AssemblyProductAttribute("Imed.LicenciasMedicas")]
+[assembly: System.Reflection.AssemblyTitleAttribute("Imed.LicenciasMedicas")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
 
 // Generado por la clase WriteCodeFragment de MSBuild.

@@ -1,0 +1,13 @@
+C:\Proyectos\Imed\Imed\Imed.LicenciasMedicas\bin\Debug\net7.0\Imed.LicenciasMedicas.deps.json
+C:\Proyectos\Imed\Imed\Imed.LicenciasMedicas\bin\Debug\net7.0\Imed.LicenciasMedicas.dll
+C:\Proyectos\Imed\Imed\Imed.LicenciasMedicas\bin\Debug\net7.0\Imed.LicenciasMedicas.pdb
+C:\Proyectos\Imed\Imed\Imed.LicenciasMedicas\obj\Debug\net7.0\Imed.LicenciasMedicas.csproj.AssemblyReference.cache
+C:\Proyectos\Imed\Imed\Imed.LicenciasMedicas\obj\Debug\net7.0\Imed.LicenciasMedicas.GeneratedMSBuildEditorConfig.editorconfig
+C:\Proyectos\Imed\Imed\Imed.LicenciasMedicas\obj\Debug\net7.0\Imed.LicenciasMedicas.AssemblyInfoInputs.cache
+C:\Proyectos\Imed\Imed\Imed.LicenciasMedicas\obj\Debug\net7.0\Imed.LicenciasMedicas.AssemblyInfo.cs
+C:\Proyectos\Imed\Imed\Imed.LicenciasMedicas\obj\Debug\net7.0\Imed.LicenciasMedicas.csproj.CoreCompileInputs.cache
+C:\Proyectos\Imed\Imed\Imed.LicenciasMedicas\obj\Debug\net7.0\Imed.LicenciasMedicas.sourcelink.json
+C:\Proyectos\Imed\Imed\Imed.LicenciasMedicas\obj\Debug\net7.0\Imed.LicenciasMedicas.dll
+C:\Proyectos\Imed\Imed\Imed.LicenciasMedicas\obj\Debug\net7.0\refint\Imed.LicenciasMedicas.dll
+C:\Proyectos\Imed\Imed\Imed.LicenciasMedicas\obj\Debug\net7.0\Imed.LicenciasMedicas.pdb
+C:\Proyectos\Imed\Imed\Imed.LicenciasMedicas\obj\Debug\net7.0\ref\Imed.LicenciasMedicas.dll
