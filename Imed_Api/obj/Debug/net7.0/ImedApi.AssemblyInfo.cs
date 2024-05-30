@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("ImedApi")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+0f40cd3ed1b41dba9460b8f9ca28dc95abca948f")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+1a54423570263a1d45ea640f76cfc6d4bbb9d174")]
 [assembly: System.Reflection.AssemblyProductAttribute("ImedApi")]
 [assembly: System.Reflection.AssemblyTitleAttribute("ImedApi")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

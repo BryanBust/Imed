@@ -11,7 +11,7 @@ using static ImedApi.Controllers.TestController;
 
 namespace ImedApi.Controllers
 {
-    [Route("api/test/[controller]/[action]")]
+    [Route("api/[controller]/[action]")]
     [ApiController]
     public class TestController : ControllerBase
     {
@@ -73,7 +73,6 @@ namespace ImedApi.Controllers
             }
         }
 
-        //[Route("RecuperoZonaA")]
         [HttpPost]
         public async Task<GenericResponse> GetRecuperoZonaA([FromBody] RecuperoZonaA zonaA)
         {
@@ -111,7 +110,7 @@ namespace ImedApi.Controllers
 
                 request.AddParameter("text/xml", xml, ParameterType.RequestBody);
 
-                RestResponse restResponse = restClient.ExecutePost(request);
+                RestResponse restResponse = await restClient.ExecutePostAsync(request);
 
                 switch (restResponse.StatusCode)
                 {
@@ -366,7 +365,6 @@ namespace ImedApi.Controllers
                 throw;
             }
         }
-
 
         public struct GenericResponse
         {

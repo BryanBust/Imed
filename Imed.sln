@@ -5,6 +5,8 @@ VisualStudioVersion = 17.9.34728.123
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "ImedApi", "Imed_Api\ImedApi.csproj", "{BFE41671-E1D6-4116-A441-E1E54729A2D9}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Imed.LicenciasMedicas", "Imed.LicenciasMedicas\Imed.LicenciasMedicas.csproj", "{ECE91197-90AF-4C74-BB81-5C48AA35EB28}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -15,6 +17,10 @@ Global
 		{BFE41671-E1D6-4116-A441-E1E54729A2D9}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{BFE41671-E1D6-4116-A441-E1E54729A2D9}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{BFE41671-E1D6-4116-A441-E1E54729A2D9}.Release|Any CPU.Build.0 = Release|Any CPU
+		{ECE91197-90AF-4C74-BB81-5C48AA35EB28}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{ECE91197-90AF-4C74-BB81-5C48AA35EB28}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{ECE91197-90AF-4C74-BB81-5C48AA35EB28}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{ECE91197-90AF-4C74-BB81-5C48AA35EB28}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
